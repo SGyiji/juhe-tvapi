@@ -1,0 +1,385 @@
+{
+    "cache_time": 7200,
+    "api_site": {
+        "🚀游魂┃多多_无水印采集": {
+            "name": "🚀游魂┃多多·🐝┃纯净┃采集",
+            "api": "https://api.wsyzy.net/api.php/provide/vod/?ac=list",
+            "detail": "https://api.wsyzy.net"
+        },
+        "🚀游魂┃多多_360资源": {
+            "name": "🚀游魂┃多多·⏱┃三六┃资源",
+            "api": "https://360zy.com/api.php/seaxml/vod/",
+            "detail": "https://360zy.com"
+        },
+        "🚀游魂┃多多_量子资源": {
+            "name": "🚀游魂┃多多·🥑┃量子┃资源",
+            "api": "https://cj.lziapi.com/api.php/provide/vod/",
+            "detail": "https://cj.lziapi.com"
+        },
+        "🚀游魂┃多多_非凡资源": {
+            "name": "🚀游魂┃多多·🥗┃非凡┃资源",
+            "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
+            "detail": "http://cj.ffzyapi.com"
+        },
+        "🚀游魂┃PG_索尼资源": {
+            "name": "🚀游魂┃PG·索尼┃资源",
+            "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
+            "detail": "https://suoniapi.com"
+        },
+        "🚀游魂┃东篱_天堂": {
+            "name": "🚀游魂┃东篱·🍀｜天堂｜采集",
+            "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/m3u8/",
+            "detail": "http://caiji.dyttzyapi.com"
+        },
+        "🚀游魂┃牛播一_暴风": {
+            "name": "🚀游魂┃牛播一·暴风",
+            "api": "https://bfzyapi.com/api.php/provide/vod",
+            "detail": "https://bfzyapi.com"
+        },
+        "🚀游魂┃牛播一_IK": {
+            "name": "🚀游魂┃牛播一·IK",
+            "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/",
+            "detail": "https://ikunzyapi.com"
+        },
+        "🚀游魂┃哈基米_虎牙资源": {
+            "name": "🚀游魂┃哈基米·烂大街",
+            "api": "https://www.huyaapi.com/api.php/provide/vod/",
+            "detail": "https://www.huyaapi.com"
+        },
+        "🚀游魂┃哈基米_克隆合集": {
+            "name": "🚀游魂┃哈基米·克隆合集",
+            "api": "http://zhangqun1818.serv00.net/klhj.php",
+            "detail": "http://zhangqun1818.serv00.net"
+        },
+        "🚀游魂┃哈基米_采集集合": {
+            "name": "🚀游魂┃哈基米·采集集合+",
+            "api": "http://zhangqun1818.serv00.net/cj/cjjh.php",
+            "detail": "http://zhangqun1818.serv00.net"
+        },
+        "🚀游魂┃哈基米_影视播放": {
+            "name": "🚀游魂┃哈基米·老张影视",
+            "api": "http://zhangqun1818.serv00.net/zh/2242.php",
+            "detail": "http://zhangqun1818.serv00.net"
+        },
+        "🚀游魂┃哈基米_影视单播放": {
+            "name": "🚀游魂┃哈基米·影视播放",
+            "api": "http://zhangqun1818.serv00.net/zh/2243.php",
+            "detail": "http://zhangqun1818.serv00.net"
+        },
+        "🚀游魂┃哈基米_wsycj": {
+            "name": "🚀游魂┃哈基米·采集",
+            "api": "https://api.wsyzy.net/api.php/provide/vod",
+            "detail": "https://api.wsyzy.net"
+        },
+        "🚀游魂┃哈基米_裤佬JS聚合": {
+            "name": "🚀游魂┃哈基米·采集┃聚合",
+            "api": "http://zhangqun1818.serv00.net/cj/cjjh.php?ac=list",
+            "detail": "http://zhangqun1818.serv00.net"
+        },
+        "🚀游魂┃哈基米_360": {
+            "name": "🚀游魂┃哈基米·三六零",
+            "api": "https://360zy.com/api.php/provide/vod",
+            "detail": "https://360zy.com"
+        },
+        "🚀游魂┃哈基米_量子资源": {
+            "name": "🚀游魂┃哈基米·🌼量子┃影视🌼",
+            "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8",
+            "detail": "https://cj.lziapi.com"
+        },
+        "🚀游魂┃哈基米_光速资源": {
+            "name": "🚀游魂┃哈基米·🌼光速┃资源🌼",
+            "api": "https://api.guangsuapi.com/api.php/provide/vod/",
+            "detail": "https://api.guangsuapi.com"
+        },
+        "🚀游魂┃哈基米_非凡资源": {
+            "name": "🚀游魂┃哈基米·🌼非凡┃资源🌼",
+            "api": "http://ffzy1.tv/api.php/provide/vod/",
+            "detail": "http://ffzy1.tv"
+        },
+        "🚀游魂┃哈基米_虎牙": {
+            "name": "🚀游魂┃哈基米·🌼虎牙┃采集🌼",
+            "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8",
+            "detail": "https://www.huyaapi.com"
+        },
+        "🚀游魂┃哈基米_如意资源": {
+            "name": "🚀游魂┃哈基米·🌼如意┃影视🌼",
+            "api": "http://cj.rycjapi.com/api.php/provide/vod",
+            "detail": "http://cj.rycjapi.com"
+        },
+        "🚀游魂┃哈基米_豆瓣资源": {
+            "name": "🚀游魂┃哈基米·🌼豆瓣┃影视🌼",
+            "api": "https://caiji.dbzy5.com/api.php/provide/vod",
+            "detail": "https://caiji.dbzy5.com"
+        },
+        "🚀游魂┃哈基米_茅台资源": {
+            "name": "🚀游魂┃哈基米·🌼茅台┃影视🌼",
+            "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
+            "detail": "https://caiji.maotaizy.cc"
+        },
+        "🚀游魂┃哈基米_魔都资源": {
+            "name": "🚀游魂┃哈基米·🌼魔都┃影视🌼",
+            "api": "https://www.mdzyapi.com/api.php/provide/vod",
+            "detail": "https://www.mdzyapi.com"
+        },
+        "🚀游魂┃哈基米_电影天堂": {
+            "name": "🚀游魂┃哈基米·🌼电影┃天堂🌼",
+            "api": "https://caiji.dyttzyapi.com/api.php/provide/vod",
+            "detail": "https://caiji.dyttzyapi.com"
+        },
+        "🚀游魂┃哈基米_极速资源": {
+            "name": "🚀游魂┃哈基米·🌼极速┃资源🌼",
+            "api": "https://jszyapi.com/api.php/provide/vod/",
+            "detail": "https://jszyapi.com"
+        },
+        "🚀游魂┃哈基米_金鹰资源": {
+            "name": "🚀游魂┃哈基米·🌼金鹰┃资源🌼",
+            "api": "https://jyzyapi.com/provide/vod/from/jinyingm3u8/at/json",
+            "detail": "https://jyzyapi.com"
+        }
+    },
+    "sites": [
+        {
+            "key": "🚀游魂┃多多_无水印采集",
+            "name": "🚀游魂┃多多·🐝┃纯净┃采集",
+            "api": "https://api.wsyzy.net/api.php/provide/vod/?ac=list",
+            "type": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "🚀游魂┃多多_360资源",
+            "name": "🚀游魂┃多多·⏱┃三六┃资源",
+            "api": "https://360zy.com/api.php/seaxml/vod/",
+            "type": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "🚀游魂┃多多_量子资源",
+            "name": "🚀游魂┃多多·🥑┃量子┃资源",
+            "api": "https://cj.lziapi.com/api.php/provide/vod/",
+            "type": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "🚀游魂┃多多_非凡资源",
+            "name": "🚀游魂┃多多·🥗┃非凡┃资源",
+            "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
+            "type": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "🚀游魂┃PG_索尼资源",
+            "name": "🚀游魂┃PG·索尼┃资源",
+            "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
+            "type": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "🚀游魂┃东篱_天堂",
+            "name": "🚀游魂┃东篱·🍀｜天堂｜采集",
+            "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/m3u8/",
+            "type": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "🚀游魂┃牛播一_暴风",
+            "name": "🚀游魂┃牛播一·暴风",
+            "api": "https://bfzyapi.com/api.php/provide/vod",
+            "type": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "🚀游魂┃牛播一_IK",
+            "name": "🚀游魂┃牛播一·IK",
+            "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/",
+            "type": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "🚀游魂┃哈基米_虎牙资源",
+            "name": "🚀游魂┃哈基米·烂大街",
+            "api": "https://www.huyaapi.com/api.php/provide/vod/",
+            "type": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "🚀游魂┃哈基米_克隆合集",
+            "name": "🚀游魂┃哈基米·克隆合集",
+            "api": "http://zhangqun1818.serv00.net/klhj.php",
+            "type": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "🚀游魂┃哈基米_采集集合",
+            "name": "🚀游魂┃哈基米·采集集合+",
+            "api": "http://zhangqun1818.serv00.net/cj/cjjh.php",
+            "type": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "🚀游魂┃哈基米_影视播放",
+            "name": "🚀游魂┃哈基米·老张影视",
+            "api": "http://zhangqun1818.serv00.net/zh/2242.php",
+            "type": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "🚀游魂┃哈基米_影视单播放",
+            "name": "🚀游魂┃哈基米·影视播放",
+            "api": "http://zhangqun1818.serv00.net/zh/2243.php",
+            "type": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "🚀游魂┃哈基米_wsycj",
+            "name": "🚀游魂┃哈基米·采集",
+            "api": "https://api.wsyzy.net/api.php/provide/vod",
+            "type": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "🚀游魂┃哈基米_裤佬JS聚合",
+            "name": "🚀游魂┃哈基米·采集┃聚合",
+            "api": "http://zhangqun1818.serv00.net/cj/cjjh.php?ac=list",
+            "type": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "🚀游魂┃哈基米_360",
+            "name": "🚀游魂┃哈基米·三六零",
+            "api": "https://360zy.com/api.php/provide/vod",
+            "type": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "🚀游魂┃哈基米_量子资源",
+            "name": "🚀游魂┃哈基米·🌼量子┃影视🌼",
+            "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8",
+            "type": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "🚀游魂┃哈基米_光速资源",
+            "name": "🚀游魂┃哈基米·🌼光速┃资源🌼",
+            "api": "https://api.guangsuapi.com/api.php/provide/vod/",
+            "type": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "🚀游魂┃哈基米_非凡资源",
+            "name": "🚀游魂┃哈基米·🌼非凡┃资源🌼",
+            "api": "http://ffzy1.tv/api.php/provide/vod/",
+            "type": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "🚀游魂┃哈基米_虎牙",
+            "name": "🚀游魂┃哈基米·🌼虎牙┃采集🌼",
+            "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8",
+            "type": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "🚀游魂┃哈基米_如意资源",
+            "name": "🚀游魂┃哈基米·🌼如意┃影视🌼",
+            "api": "http://cj.rycjapi.com/api.php/provide/vod",
+            "type": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "🚀游魂┃哈基米_豆瓣资源",
+            "name": "🚀游魂┃哈基米·🌼豆瓣┃影视🌼",
+            "api": "https://caiji.dbzy5.com/api.php/provide/vod",
+            "type": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "🚀游魂┃哈基米_茅台资源",
+            "name": "🚀游魂┃哈基米·🌼茅台┃影视🌼",
+            "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
+            "type": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "🚀游魂┃哈基米_魔都资源",
+            "name": "🚀游魂┃哈基米·🌼魔都┃影视🌼",
+            "api": "https://www.mdzyapi.com/api.php/provide/vod",
+            "type": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "🚀游魂┃哈基米_电影天堂",
+            "name": "🚀游魂┃哈基米·🌼电影┃天堂🌼",
+            "api": "https://caiji.dyttzyapi.com/api.php/provide/vod",
+            "type": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "🚀游魂┃哈基米_极速资源",
+            "name": "🚀游魂┃哈基米·🌼极速┃资源🌼",
+            "api": "https://jszyapi.com/api.php/provide/vod/",
+            "type": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "🚀游魂┃哈基米_金鹰资源",
+            "name": "🚀游魂┃哈基米·🌼金鹰┃资源🌼",
+            "api": "https://jyzyapi.com/provide/vod/from/jinyingm3u8/at/json",
+            "type": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        }
+    ]
+}
