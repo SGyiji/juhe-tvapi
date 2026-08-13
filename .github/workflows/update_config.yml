@@ -41,6 +41,8 @@ jobs:
 
       # 步骤4: 运行 update_config.py 生成原始 config.json
       - name: Step 1 - Run update_config.py to generate config.json
+        env:
+            SOURCE_URLS: ${{ vars.SOURCE_URLS }}
         run: python update_config.py
 
       # 步骤5: 运行 test_api_availability.py 测试并清理 config.json
