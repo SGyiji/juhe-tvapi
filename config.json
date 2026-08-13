@@ -176,11 +176,6 @@
             "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
             "detail": "https://caiji.maotaizy.cc"
         },
-        "dbzy": {
-            "name": "豆瓣资源",
-            "api": "https://dbzy.tv/api.php/provide/vod",
-            "detail": "https://dbzy.tv"
-        },
         "subo": {
             "name": "速博资源",
             "api": "https://subocaiji.com/api.php/provide/vod",
@@ -275,11 +270,6 @@
             "name": "优质资源",
             "api": "https://api.yzzy-api.com/inc/apijson.php",
             "detail": "https://api.yzzy-api.com"
-        },
-        "dbzy2": {
-            "name": "豆瓣资源",
-            "api": "https://caiji.dbzy5.com/api.php/provide/vod",
-            "detail": "https://caiji.dbzy5.com"
         },
         "hhzy2": {
             "name": "豪华资源(代理)",
@@ -844,15 +834,6 @@
             "filterable": 1
         },
         {
-            "key": "dbzy",
-            "name": "豆瓣资源",
-            "api": "https://dbzy.tv/api.php/provide/vod",
-            "type": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "subo",
             "name": "速博资源",
             "api": "https://subocaiji.com/api.php/provide/vod",
@@ -1018,15 +999,6 @@
             "key": "yzzy",
             "name": "优质资源",
             "api": "https://api.yzzy-api.com/inc/apijson.php",
-            "type": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "dbzy2",
-            "name": "豆瓣资源",
-            "api": "https://caiji.dbzy5.com/api.php/provide/vod",
             "type": 1,
             "searchable": 1,
             "quickSearch": 1,
