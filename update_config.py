@@ -107,7 +107,13 @@ def fetch_and_decode_url(url, depth=0):
     for attempt in range(MAX_RETRIES):
         try:
             print(f"正在尝试第 {attempt + 1}/{MAX_RETRIES} 次请求链接: {url}")
-            response = requests.get(url, timeout=REQUEST_TIMEOUT, headers={"User-Agent": "Mozilla/5.0"})
+            #response = requests.get(url, timeout=REQUEST_TIMEOUT, headers={"User-Agent": "Mozilla/5.0"})
+            response = requests.get(url, timeout=REQUEST_TIMEOUT, headers={
+                # 尝试使用其他请求头，防止部分部分源要验证来者身份
+                "User-Agent": "okhttp/3.12.1"    # 很多 TVBox 应用使用 OkHttp 库
+                # 或者 "User-Agent": "TvBox/1.0.0"
+                # 或者 "User-Agent": "Clover/1.0"
+            })
             response.raise_for_status()
             response.encoding = 'utf-8'
             raw_content = response.text.strip()
