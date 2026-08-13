@@ -1,50 +1,10 @@
 {
     "cache_time": 7200,
     "api_site": {
-        "csp_xml_索尼资源": {
-            "name": "🐝索尼资源",
-            "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
-            "detail": "https://suoniapi.com"
-        },
-        "csp_xml_量子资源": {
-            "name": "🐝量子资源",
-            "api": "http://cj.lziapi.com/api.php/provide/vod/?ac=list",
-            "detail": "http://cj.lziapi.com"
-        },
-        "csp_xml_非凡资源": {
-            "name": "🐝非凡资源",
-            "api": "http://cj.ffzyapi.com/api.php/provide/vod/?ac=list",
-            "detail": "http://cj.ffzyapi.com"
-        },
-        "csp_xml_暴风资源": {
-            "name": "🐝暴风资源",
-            "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
-            "detail": "https://bfzyapi.com"
-        },
         "量子资源": {
-            "name": "量子资源(切)",
+            "name": "🥑量子资源",
             "api": "http://cj.lziapi.com/api.php/provide/vod/",
             "detail": "http://cj.lziapi.com"
-        },
-        "樱花资源": {
-            "name": "樱花资源(切)",
-            "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
-            "detail": "https://m3u8.apiyhzy.com"
-        },
-        "闪电资源": {
-            "name": "闪电资源(切)",
-            "api": "http://sdzyapi.com/api.php/provide/vod/",
-            "detail": "http://sdzyapi.com"
-        },
-        "光速资源": {
-            "name": "光速资源(切)",
-            "api": "https://api.guangsuapi.com/api.php/provide/vod/",
-            "detail": "https://api.guangsuapi.com"
-        },
-        "新浪资源": {
-            "name": "新浪资源(切)",
-            "api": "http://api.xinlangapi.com/xinlangapi.php/provide/vod/",
-            "detail": "http://api.xinlangapi.com"
         },
         "暴风": {
             "name": "暴风",
@@ -56,9 +16,19 @@
             "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/",
             "detail": "https://ikunzyapi.com"
         },
+        "天堂": {
+            "name": "🍀｜天堂｜采集",
+            "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/m3u8/",
+            "detail": "http://caiji.dyttzyapi.com"
+        },
+        "360资源": {
+            "name": "🍀｜360｜采集",
+            "api": "https://360zy.com/api.php/seaxml/vod/",
+            "detail": "https://360zy.com"
+        },
         "非凡": {
-            "name": "非凡┃影视",
-            "api": "http://cj.ffzyapi.com/api.php/provide/vod",
+            "name": "🍀｜非凡｜采集",
+            "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
             "detail": "http://cj.ffzyapi.com"
         },
         "2070335664787820544": {
@@ -156,15 +126,10 @@
             "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",
             "detail": "https://hhzyapi.com"
         },
-        "天堂_2": {
-            "name": "🍀｜天堂｜采集",
-            "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/m3u8/",
-            "detail": "http://caiji.dyttzyapi.com"
-        },
-        "360资源": {
-            "name": "🍀｜360｜采集",
-            "api": "https://360zy.com/api.php/seaxml/vod/",
-            "detail": "https://360zy.com"
+        "光速资源": {
+            "name": "💯光速切片",
+            "api": "https://api.guangsuapi.com/api.php/provide/vod/",
+            "detail": "https://api.guangsuapi.com"
         },
         "克隆合集": {
             "name": "克隆合集",
@@ -191,7 +156,7 @@
             "api": "http://zhangqun1818.serv00.net/cj/cjjh.php?ac=list",
             "detail": "http://zhangqun1818.serv00.net"
         },
-        "量子资源_3": {
+        "量子资源_2": {
             "name": "🌼量子┃影视🌼",
             "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8",
             "detail": "https://cj.lziapi.com"
@@ -235,6 +200,41 @@
             "name": "🌼金鹰┃资源🌼",
             "api": "https://jyzyapi.com/provide/vod/from/jinyingm3u8/at/json",
             "detail": "https://jyzyapi.com"
+        },
+        "csp_xml_索尼资源": {
+            "name": "🐝索尼资源",
+            "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
+            "detail": "https://suoniapi.com"
+        },
+        "csp_xml_量子资源": {
+            "name": "🐝量子资源",
+            "api": "http://cj.lziapi.com/api.php/provide/vod/?ac=list",
+            "detail": "http://cj.lziapi.com"
+        },
+        "csp_xml_非凡资源": {
+            "name": "🐝非凡资源",
+            "api": "http://cj.ffzyapi.com/api.php/provide/vod/?ac=list",
+            "detail": "http://cj.ffzyapi.com"
+        },
+        "csp_xml_暴风资源": {
+            "name": "🐝暴风资源",
+            "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
+            "detail": "https://bfzyapi.com"
+        },
+        "樱花资源": {
+            "name": "樱花资源(切)",
+            "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
+            "detail": "https://m3u8.apiyhzy.com"
+        },
+        "闪电资源": {
+            "name": "闪电资源(切)",
+            "api": "http://sdzyapi.com/api.php/provide/vod/",
+            "detail": "http://sdzyapi.com"
+        },
+        "新浪资源": {
+            "name": "新浪资源(切)",
+            "api": "http://api.xinlangapi.com/xinlangapi.php/provide/vod/",
+            "detail": "http://api.xinlangapi.com"
         },
         "😹玄珠_红牛资源": {
             "name": "😹玄珠·红牛｜资源",
@@ -334,81 +334,9 @@
     },
     "sites": [
         {
-            "key": "csp_xml_索尼资源",
-            "name": "🐝索尼资源",
-            "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
-            "type": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_xml_量子资源",
-            "name": "🐝量子资源",
-            "api": "http://cj.lziapi.com/api.php/provide/vod/?ac=list",
-            "type": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_xml_非凡资源",
-            "name": "🐝非凡资源",
-            "api": "http://cj.ffzyapi.com/api.php/provide/vod/?ac=list",
-            "type": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_xml_暴风资源",
-            "name": "🐝暴风资源",
-            "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
-            "type": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "量子资源",
-            "name": "量子资源(切)",
+            "name": "🥑量子资源",
             "api": "http://cj.lziapi.com/api.php/provide/vod/",
-            "type": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "樱花资源",
-            "name": "樱花资源(切)",
-            "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
-            "type": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "闪电资源",
-            "name": "闪电资源(切)",
-            "api": "http://sdzyapi.com/api.php/provide/vod/",
-            "type": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "光速资源",
-            "name": "光速资源(切)",
-            "api": "https://api.guangsuapi.com/api.php/provide/vod/",
-            "type": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "新浪资源",
-            "name": "新浪资源(切)",
-            "api": "http://api.xinlangapi.com/xinlangapi.php/provide/vod/",
             "type": 1,
             "searchable": 1,
             "quickSearch": 1,
@@ -433,9 +361,27 @@
             "filterable": 1
         },
         {
+            "key": "天堂",
+            "name": "🍀｜天堂｜采集",
+            "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/m3u8/",
+            "type": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "360资源",
+            "name": "🍀｜360｜采集",
+            "api": "https://360zy.com/api.php/seaxml/vod/",
+            "type": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "非凡",
-            "name": "非凡┃影视",
-            "api": "http://cj.ffzyapi.com/api.php/provide/vod",
+            "name": "🍀｜非凡｜采集",
+            "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
             "type": 1,
             "searchable": 1,
             "quickSearch": 1,
@@ -613,18 +559,9 @@
             "filterable": 1
         },
         {
-            "key": "天堂_2",
-            "name": "🍀｜天堂｜采集",
-            "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/m3u8/",
-            "type": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "360资源",
-            "name": "🍀｜360｜采集",
-            "api": "https://360zy.com/api.php/seaxml/vod/",
+            "key": "光速资源",
+            "name": "💯光速切片",
+            "api": "https://api.guangsuapi.com/api.php/provide/vod/",
             "type": 1,
             "searchable": 1,
             "quickSearch": 1,
@@ -676,7 +613,7 @@
             "filterable": 1
         },
         {
-            "key": "量子资源_3",
+            "key": "量子资源_2",
             "name": "🌼量子┃影视🌼",
             "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8",
             "type": 1,
@@ -751,6 +688,69 @@
             "key": "金鹰资源_2",
             "name": "🌼金鹰┃资源🌼",
             "api": "https://jyzyapi.com/provide/vod/from/jinyingm3u8/at/json",
+            "type": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_xml_索尼资源",
+            "name": "🐝索尼资源",
+            "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
+            "type": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_xml_量子资源",
+            "name": "🐝量子资源",
+            "api": "http://cj.lziapi.com/api.php/provide/vod/?ac=list",
+            "type": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_xml_非凡资源",
+            "name": "🐝非凡资源",
+            "api": "http://cj.ffzyapi.com/api.php/provide/vod/?ac=list",
+            "type": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_xml_暴风资源",
+            "name": "🐝暴风资源",
+            "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
+            "type": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "樱花资源",
+            "name": "樱花资源(切)",
+            "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
+            "type": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "闪电资源",
+            "name": "闪电资源(切)",
+            "api": "http://sdzyapi.com/api.php/provide/vod/",
+            "type": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "新浪资源",
+            "name": "新浪资源(切)",
+            "api": "http://api.xinlangapi.com/xinlangapi.php/provide/vod/",
             "type": 1,
             "searchable": 1,
             "quickSearch": 1,
