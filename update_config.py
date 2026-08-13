@@ -9,15 +9,15 @@ from urllib.parse import urlparse  # --- 引入 URL 解析库 ---
 
 # --- 配置区 ---
 DEFAULT_URLS_TO_FETCH = [
-    "https://raw.githubusercontent.com/cmliu/cmliu/refs/heads/main/tvapi_config_json",  
-    "https://raw.githubusercontent.com/666zmy/MoonTV/refs/heads/main/config.json", 
-    "https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt",
-    "https://raw.githubusercontent.com/rapier15sapper/ew/refs/heads/main/test.json",
-    "https://raw.githubusercontent.com/anaer/Meow/main/meow.json",  # TVBox 格式 (sites 字段), 约77个源
-    "http://xhztv.top/4k.json",                                    # 小盒子4K (TVBox sites 格式)
-    "http://xhztv.top/dc",                                         # 小盒子多仓 (urls 多仓格式, 18个子配置)
-    "http://ztha.top/TVBox/GYCK.json",                             # 挺好分享多仓 (urls 多仓格式, 32个子配置)
-    "http://xmbjm.fh4u.org/dc.txt"                                 # 拾光多仓 (urls 多仓格式)
+    #"https://raw.githubusercontent.com/cmliu/cmliu/refs/heads/main/tvapi_config_json",  
+    #"https://raw.githubusercontent.com/666zmy/MoonTV/refs/heads/main/config.json", 
+    #"https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt",
+    #"https://raw.githubusercontent.com/rapier15sapper/ew/refs/heads/main/test.json",
+    #"https://raw.githubusercontent.com/anaer/Meow/main/meow.json",  # TVBox 格式 (sites 字段), 约77个源
+    #"http://xhztv.top/4k.json",                                    # 小盒子4K (TVBox sites 格式)
+    #"http://xhztv.top/dc",                                         # 小盒子多仓 (urls 多仓格式, 18个子配置)
+    #"http://ztha.top/TVBox/GYCK.json",                             # 挺好分享多仓 (urls 多仓格式, 32个子配置)
+    #"http://xmbjm.fh4u.org/dc.txt"                                 # 拾光多仓 (urls 多仓格式)
 ]
 
 # 多仓 (urls) 递归展开的最大深度, 防止多仓嵌套多仓导致无限递归
