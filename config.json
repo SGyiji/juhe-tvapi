@@ -21,15 +21,25 @@
             "api": "https://cj.lziapi.com/api.php/provide/vod/",
             "detail": "https://cj.lziapi.com"
         },
+        "🚀游魂┃PG_索尼资源": {
+            "name": "🚀游魂┃PG·索尼┃资源",
+            "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
+            "detail": "https://suoniapi.com"
+        },
         "🚀游魂┃多多_无水印采集": {
             "name": "🚀游魂┃多多·🐝┃纯净┃采集",
             "api": "https://api.wsyzy.net/api.php/provide/vod/?ac=list",
             "detail": "https://api.wsyzy.net"
         },
-        "🚀游魂┃PG_索尼资源": {
-            "name": "🚀游魂┃PG·索尼┃资源",
-            "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
-            "detail": "https://suoniapi.com"
+        "🚀游魂┃牛播一_暴风": {
+            "name": "🚀游魂┃牛播一·暴风",
+            "api": "https://bfzyapi.com/api.php/provide/vod",
+            "detail": "https://bfzyapi.com"
+        },
+        "🚀游魂┃牛播一_IK": {
+            "name": "🚀游魂┃牛播一·IK",
+            "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/",
+            "detail": "https://ikunzyapi.com"
         },
         "🚀游魂┃哈基米_虎牙资源": {
             "name": "🚀游魂┃哈基米·烂大街",
@@ -70,11 +80,6 @@
             "name": "🚀游魂┃哈基米·三六零",
             "api": "https://360zy.com/api.php/provide/vod",
             "detail": "https://360zy.com"
-        },
-        "🚀游魂┃哈基米_cj_暴风资源": {
-            "name": "🚀游魂┃哈基米·🧞暴风┃短剧",
-            "api": "https://bfzyapi.com/api.php/provide/vod",
-            "detail": "https://bfzyapi.com"
         },
         "🚀游魂┃哈基米_量子资源": {
             "name": "🚀游魂┃哈基米·🌼量子┃影视🌼",
@@ -170,6 +175,15 @@
             "filterable": 1
         },
         {
+            "key": "🚀游魂┃PG_索尼资源",
+            "name": "🚀游魂┃PG·索尼┃资源",
+            "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
+            "type": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "🚀游魂┃多多_无水印采集",
             "name": "🚀游魂┃多多·🐝┃纯净┃采集",
             "api": "https://api.wsyzy.net/api.php/provide/vod/?ac=list",
@@ -179,9 +193,18 @@
             "filterable": 1
         },
         {
-            "key": "🚀游魂┃PG_索尼资源",
-            "name": "🚀游魂┃PG·索尼┃资源",
-            "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
+            "key": "🚀游魂┃牛播一_暴风",
+            "name": "🚀游魂┃牛播一·暴风",
+            "api": "https://bfzyapi.com/api.php/provide/vod",
+            "type": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "🚀游魂┃牛播一_IK",
+            "name": "🚀游魂┃牛播一·IK",
+            "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/",
             "type": 1,
             "searchable": 1,
             "quickSearch": 1,
@@ -254,15 +277,6 @@
             "key": "🚀游魂┃哈基米_360",
             "name": "🚀游魂┃哈基米·三六零",
             "api": "https://360zy.com/api.php/provide/vod",
-            "type": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "🚀游魂┃哈基米_cj_暴风资源",
-            "name": "🚀游魂┃哈基米·🧞暴风┃短剧",
-            "api": "https://bfzyapi.com/api.php/provide/vod",
             "type": 1,
             "searchable": 1,
             "quickSearch": 1,
