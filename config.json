@@ -21,15 +21,15 @@
             "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
             "detail": "http://cj.ffzyapi.com"
         },
-        "🚀游魂┃PG_索尼资源": {
-            "name": "🚀游魂┃PG·索尼┃资源",
-            "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
-            "detail": "https://suoniapi.com"
-        },
         "🚀游魂┃东篱_天堂": {
             "name": "🚀游魂┃东篱·🍀｜天堂｜采集",
             "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/m3u8/",
             "detail": "http://caiji.dyttzyapi.com"
+        },
+        "🚀游魂┃PG_索尼资源": {
+            "name": "🚀游魂┃PG·索尼┃资源",
+            "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
+            "detail": "https://suoniapi.com"
         },
         "🚀游魂┃哈基米_虎牙资源": {
             "name": "🚀游魂┃哈基米·烂大街",
@@ -175,18 +175,18 @@
             "filterable": 1
         },
         {
-            "key": "🚀游魂┃PG_索尼资源",
-            "name": "🚀游魂┃PG·索尼┃资源",
-            "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
+            "key": "🚀游魂┃东篱_天堂",
+            "name": "🚀游魂┃东篱·🍀｜天堂｜采集",
+            "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/m3u8/",
             "type": 1,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
         },
         {
-            "key": "🚀游魂┃东篱_天堂",
-            "name": "🚀游魂┃东篱·🍀｜天堂｜采集",
-            "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/m3u8/",
+            "key": "🚀游魂┃PG_索尼资源",
+            "name": "🚀游魂┃PG·索尼┃资源",
+            "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
             "type": 1,
             "searchable": 1,
             "quickSearch": 1,
