@@ -81,6 +81,11 @@
             "api": "https://api.guangsuapi.com/api.php/provide/vod/",
             "detail": "https://api.guangsuapi.com"
         },
+        "🚀游魂┃哈基米_非凡资源": {
+            "name": "🚀游魂┃哈基米·🌼非凡┃资源🌼",
+            "api": "http://ffzy1.tv/api.php/provide/vod/",
+            "detail": "http://ffzy1.tv"
+        },
         "🚀游魂┃哈基米_虎牙": {
             "name": "🚀游魂┃哈基米·🌼虎牙┃采集🌼",
             "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8",
@@ -272,6 +277,15 @@
             "key": "🚀游魂┃哈基米_光速资源",
             "name": "🚀游魂┃哈基米·🌼光速┃资源🌼",
             "api": "https://api.guangsuapi.com/api.php/provide/vod/",
+            "type": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "🚀游魂┃哈基米_非凡资源",
+            "name": "🚀游魂┃哈基米·🌼非凡┃资源🌼",
+            "api": "http://ffzy1.tv/api.php/provide/vod/",
             "type": 1,
             "searchable": 1,
             "quickSearch": 1,
